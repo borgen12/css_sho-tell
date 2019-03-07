@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+hr {
+    width: 700px;
+    border-block-end-color: rebeccapurple;
+    
+}
